@@ -8,7 +8,9 @@ Esse repositório tem como objetivo compartilhar notas e resoluções de exercí
 
 Todas as imagens de autômatos foram criadas usando o site [excalidraw](https://www.excalidraw.com), além das imagens, dentro da pasta `exercicios/excalidraw-src`, você pode conferir todos os arquivos `.excalidraw`, permitindo carregá-los no site e editá-los livremente.
 
-Caso você tenha dúvidas sobre algum autômato, as *LLMs* com capacidade de raciocinar (e.g *ChatGPT o1* e *DeepSeek R1*) são ótimas aliadas para descrever e explicá-los. 
+Caso você tenha dúvidas sobre algum autômato, as *LLMs* com capacidade de raciocinar (e.g *ChatGPT o1* e *DeepSeek R1*) são ótimas aliadas para descrever e explicá-los.
+
+Para realizar a leitura dos arquivos .md, recomendo o [Obsidiana](https://obsidian.md/), um _software open-source_ e gratuito para escrever anotações (usei ele para escrever as notas e resoluções).
 
 ## Como contribuir
 
