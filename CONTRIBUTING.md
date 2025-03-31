@@ -12,3 +12,8 @@ Uma *issue* não necessariamente precisa ser um erro, pode ser uma sugestão de 
 
 Somente crie *pull requests* para *issues* existentes. PRs sem *issues* vinculadas **NÃO** serão aceitas. Se a *issue* ainda não existe, crie!
 
+## Recomendações
+
+Todos as imagens de autômatos foram criadas usando o site [Excalidraw](https://www.excalidraw.com). Caso você o utilize, além da imagem, disponibilize o arquivo *source*, permitindo que as pessoas interajam e modifiquem com facilidade. Isso também facilita futuros PRs a fim de corrigir erros.
+
+Observe os padrões de escrita e nomenclatura utilizados. Dito isso, caso deseje alterar algum padrão, sugestões positivas são bem-vindas.
